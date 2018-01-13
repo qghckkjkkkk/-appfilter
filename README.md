@@ -1,5 +1,6 @@
 #
 总共3799个图标（应该是）还有appfilter
+
 游戏很少，因为太大了，手机安装不了那么多，所以大家就用candybar demo_332里面的申请图标功能发送电子邮件给我吧，没有的应用也可以发过来。
 
 email:deadalivm@foxmail.com
