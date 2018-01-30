@@ -11,5 +11,5 @@ appfiltercleaner用来清理重复activity或缺少图标文件的代码
 
 iconsbuilder用来创建drawable.xml，用得着，还可以生成arrays.xml（带icon_pack字样）
 
-这两个工具都需要安装Java，来自candybar图标模板作者
+这两个工具都需要安装Java，来自candybar图标模板作者。
 我做的192×192的AI PS PNG模板也在里面，想做的可以对着做
